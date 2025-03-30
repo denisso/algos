@@ -1,3 +1,5 @@
+[Link to problem](https://leetcode.com/problems/find-missing-and-repeated-values/description/)
+
 # Intuition
 Cycle sort
 
